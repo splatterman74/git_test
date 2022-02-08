@@ -1,0 +1,4 @@
+First add this file to the staging area.
+
+Then make a change so you can run git diff.
+#test line
